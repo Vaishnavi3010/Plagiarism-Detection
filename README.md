@@ -1,2 +1,2 @@
 # Plagiarism-Detection
-Finds percentage similarity between inputted text and relevant articles on the web.
+Finds percentage similarity between input text and relevant articles on the web.
